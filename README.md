@@ -18,7 +18,7 @@ A Python-based productivity tracking app with data analysis and visualization.
 - 🧠 Smart Insights  
 - 🖥 GUI Dashboard  
 
-🔗 [View Project](https://github.com/YOUR-USERNAME/digital-you-dashboard)
+🔗 [View Project](https://github.com/naiya663/digital-you-dashboard)
 
 
 ## 📚 Currently Learning
