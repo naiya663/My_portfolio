@@ -1,11 +1,24 @@
 # 👋 Hi, I'm Naiya Parihar
-🚀 BTech CSE Student | 💻 Python Learner
+🚀 BTech CSE Student | Aspiring Data Scientist
 
-## 🔧 Skills
-- Python, HTML, CSS
+## 🛠 Skills
+- Python (Pandas, Matplotlib, Tkinter)
+- C Programming (DSA Basics)
+- HTML, CSS
 - Git & GitHub
 
-## 📂 Projects
+## 📁 Projects
+
+### 📊 Digital You Dashboard  
+A Python-based productivity tracking app with data analysis and visualization.
+
+**Tech Used:** Python, Pandas, Matplotlib, Tkinter  
+**Features:**  
+- 📈 Data Visualization (Pie + Bar Graph)  
+- 🧠 Smart Insights  
+- 🖥 GUI Dashboard  
+
+🔗 [View Project](https://github.com/YOUR-USERNAME/digital-you-dashboard)
 
 
 ## 📚 Currently Learning
